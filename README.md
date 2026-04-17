@@ -1,6 +1,4 @@
-Here is a **ready-to-paste GitHub README.md** (clean, no extra formatting issues):
 
-```md
 # 🧮 Simple Web Calculator
 
 A simple calculator built using **HTML, CSS, and JavaScript**.  
